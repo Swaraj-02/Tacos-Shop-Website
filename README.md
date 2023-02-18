@@ -1,3 +1,5 @@
 
 # Tacos-Shop-Website
-This is a Tacos Shop Website made up with using Only HTML.
+This is my First HTML Project.
+I have created a Tacos Shop Website.
+I practiced HTML through it while learning from instructor Dave Gray- Youtube
